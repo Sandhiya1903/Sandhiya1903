@@ -39,6 +39,7 @@
         <img height="48" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman"/>
     </div>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sandhiyaelumalai19)](https://leetcode.com/Sandhiyaelumalai19)
 ## <div align="center">⚙ GitHub Profile Stats :
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
