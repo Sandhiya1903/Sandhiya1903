@@ -7,14 +7,6 @@
 - 📫 Reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandhiya-e) 
   
-
-## <div align="center">⚙ GitHub Profile Stats :
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhiya1903&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhiya1903&theme=react&hide_border=true" alt="streak graph" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhiya1903&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
-</div>
     <!-- Frontend Technologies -->
     <div style="text-align: center; flex: 1; margin: 10px;">
         <h3>Frontend Technologies</h3>
@@ -46,6 +38,14 @@
         <img height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
         <img height="48" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman"/>
     </div>
+
+## <div align="center">⚙ GitHub Profile Stats :
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhiya1903&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhiya1903&theme=react&hide_border=true" alt="streak graph" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhiya1903&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
+</div>
 
 
 
