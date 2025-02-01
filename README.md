@@ -1,7 +1,5 @@
 ## Hey 👋 This is Sandhiya!
 
-**Full Stack Developer MERN**
-
 - 🔭 Here's my [portfolio](https://www.linkedin.com/in/sandhiya-e)                                                 
 - 👩‍💻 Working on Web development
 - 📫 Reach me :
@@ -12,14 +10,11 @@
         <h3>Frontend Technologies</h3>
         <img height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
         <img height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-        <img height="48" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"/>
         <img height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-        <img height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
         <img height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
         <img height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
         <img height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
         <img height="48" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="next-js"/>
-        <img height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
     </div>
 
     <!-- Backend Technologies -->
