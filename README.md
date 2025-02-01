@@ -20,8 +20,6 @@
     <!-- Backend Technologies -->
     <div style="text-align: center; flex: 1; margin: 10px;">
         <h3>Backend Technologies and Database</h3>
-        <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="express-js"/>
-        <img height="48" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs"/>
         <img height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
         <img height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
     </div>
